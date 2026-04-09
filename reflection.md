@@ -1,7 +1,7 @@
 # Hoang Hiep - 2A202600065
 
 **1. Role cụ thể trong nhóm**
-* **Product Manager (PM) & Full-stack / AI Integrator:** Đóng vai trò là người định hướng tầm nhìn sản phẩm, lên kế hoạch tiến độ (roadmap) trong 3 giờ, đồng thời trực tiếp tham gia lập trình và kết nối các thành phần hệ thống để đảm bảo luồng demo chạy thông suốt.
+* **Product Manager (PM) & Full-stack / AI Integrator:** Đóng vai trò là người định hướng tầm nhìn sản phẩm, lên kế hoạch tiến độ (roadmap) trong đồng thời trực tiếp tham gia lập trình và kết nối các thành phần hệ thống để đảm bảo luồng demo chạy thông suốt.
 
 **2. Phần phụ trách cụ thể (Outputs)**
 * **Phát triển Frontend:** Xây dựng thành công giao diện tương tác trên nền tảng Web, tạo ra 2 luồng trải nghiệm rõ rệt cho Giáo viên (Upload & Review) và Học sinh (Interactive Video Player).
