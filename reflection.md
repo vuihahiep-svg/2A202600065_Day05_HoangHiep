@@ -13,7 +13,7 @@
 * **Yếu nhất - ROI & Kịch bản tài chính:** Trong khuôn khổ thời gian ngắn, các con số giả định về tỷ lệ giữ chân (retention) hay hiệu suất giảm tải giờ làm cho giáo viên chỉ dừng ở mức ước lượng lý thuyết (educated guess). Việc thiếu data thực tế từ người dùng để back-up khiến phần chứng minh tính khả thi về mặt kinh tế chưa thực sự chắc chắn.
 
 **4. Đóng góp cụ thể khác**
-* **Technology Advisor:** Đưa ra các gợi ý về Tech Stack tối ưu thời gian (sử dụng các công cụ/framework phù hợp) cho các thành viên khác để bắt kịp deadline 3 tiếng.
+* **Technology Advisor:** Đưa ra các gợi ý về Tech Stack tối ưu thời gian (sử dụng các công cụ/framework phù hợp) cho các thành viên khác để bắt kịp deadline.
 * **Code Reviewer (AI-Gen):** Khởi xướng và dẫn dắt cả nhóm thực hiện review chéo (cross-review) các đoạn code do AI sinh ra, thay vì copy-paste mù quáng, đảm bảo hệ thống không bị sập vì lỗi logic ẩn.
 
 **5. 1 điều học được trong hackathon mà trước đó chưa biết**
